@@ -1,0 +1,7 @@
+{
+
+	"require": {
+        "markstory/asset_compress": "dev-master"
+    }
+
+}
