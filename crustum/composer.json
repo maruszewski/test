@@ -1,7 +1,9 @@
 {
-
+	"name": "majestic/crustum",
+	"description": "Main cakePHP framework",
+	"type": "cakephp-plugin",
 	"require": {
-        "markstory/asset_compress": "dev-master"
-    }
-
+		"php": ">=5.3.0",
+		"composer/installers": "*"
+	}
 }
